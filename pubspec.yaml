@@ -31,13 +31,15 @@ dependencies:
   flutter:
     sdk: flutter
   curved_navigation_bar: ^1.0.6
-  firebase_auth: ^5.5.2
-  cloud_firestore: ^5.6.6
-
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
+  firebase_auth: ^5.5.3
+  cloud_firestore: ^5.6.7
   cupertino_icons: ^1.0.8
+  provider: ^6.1.5
+  cached_network_image: ^3.4.1
+  firebase_core: ^3.13.0
+  cloud_functions: ^5.5.0
+
+
 
 dev_dependencies:
   flutter_test:
@@ -69,8 +71,8 @@ flutter:
     - images/salad2.png
     - images/salad3.png
     - images/salad4.png
-    - images/salad5.png
     - images/salad6.png
+    - images/salad5.png
     - images/salad7.png
     - images/salad8.png
     - images/salad9.png
@@ -81,6 +83,23 @@ flutter:
     - images/screen1.png
     - images/screen2.png
     - images/screen3.png
+    - images/pizza 1.png
+    - images/pizza2.png
+    - images/pizza3.png
+    - images/pizza4.png
+    - images/pizza5.png
+    - images/pizza6.png
+    - images/pizza7.png
+    - images/pizza8.png
+    - images/pizza9.png
+    - images/pizza10.png
+    - images/pizza11.png
+    - images/pizza12.png
+    - images/pizza13.png
+    - images/pizza14.png
+    - images/pizza15.png
+
+
 
   
   fonts:
