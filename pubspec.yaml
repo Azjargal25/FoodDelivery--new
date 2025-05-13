@@ -98,8 +98,23 @@ flutter:
     - images/pizza13.png
     - images/pizza14.png
     - images/pizza15.png
-
-
+    - images/burger1.png
+    - images/burger2.png
+    - images/burger3.png
+    - images/burger4.png
+    - images/burger5.png
+    - images/burger6.png
+    - images/burger7.png
+    - images/burger8.png
+    - images/burger9.png
+    - images/burger10.png
+    - images/burger11.png
+    - images/cream1.png
+    - images/cream2.png
+    - images/cream3.png
+    - images/cream4.png
+    - images/cream5.png
+    
 
   
   fonts:
