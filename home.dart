@@ -250,7 +250,7 @@ class _HomeState extends State<Home> {
     {
       "category": "burger",
       "image": "images/burger8.png",
-      "title": "",
+      "title": "Воппе",
       "subtitle": "With cheese and fries",
       "price": "\$30",
     },

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fooddelivery/pages/Order.dart';
 import 'package:fooddelivery/pages/home.dart';
-import 'package:fooddelivery/pages/Order.dart';
+import 'package:fooddelivery/pages/order.dart';
 import 'package:fooddelivery/pages/profile.dart';
 import 'package:fooddelivery/pages/wallet.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
